@@ -93,4 +93,4 @@ jobs:
             fi
           fi
         fi
-      shell: bash
+      shell: bas
